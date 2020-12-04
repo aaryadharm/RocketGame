@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\n\ \n
+comment2.params=time\ angle\ velocity
+comment2.target=double\ launch(double,\ double,\ double)
+comment3.params=
+comment3.target=void\ prepareLaunch()
+comment3.text=\n\ Puts\ the\ rocket\ on\ the\ screen\ in\ starting\ location\ with\ correct\ size\n
+comment4.params=
+comment4.target=void\ addToScore()
+comment5.params=
+comment5.target=void\ updateScore()
+numComments=6
